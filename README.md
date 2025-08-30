@@ -39,9 +39,17 @@ Airbnb is a full-stack web application for exploring, listing, and booking vacat
 - MongoDB
 - Cloudinary & Mapbox accounts
 
-### Installation
+## 🔧 Installation
+
+To run the project locally:
 
 ```bash
-git clone https://github.com/Vivek210404/Airbnb.git
-cd airbnb
-npm install
+# Clone the repository
+git clone https://github.com/shubhamsingh7575/Airbnb-Project.git
+cd Airbnb-Project
+
+# Install dependencies
+npm install --force
+
+# Run the app
+npm start
