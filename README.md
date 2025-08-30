@@ -26,7 +26,6 @@ Airbnb is a full-stack web application for exploring, listing, and booking vacat
 - Node.js, Express.js  
 - MongoDB with Mongoose  
 - Passport.js for authentication  
-- Mapbox API (geolocation + map)  
 - Cloudinary (image hosting)  
 
 ---
@@ -45,8 +44,8 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/shubhamsingh7575/Airbnb-Project.git
-cd Airbnb-Project
+git clone https://github.com/Vivek210404/Airbnb.git
+cd Airbnb
 
 # Install dependencies
 npm install --force
